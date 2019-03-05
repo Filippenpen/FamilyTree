@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1551795285 source:c:\users\fpenusilski17\desktop\porodicno stablo editor\porodicnostablo\main.cpp
+	<iostream>
+	"Osoba.h"
+
+1551795188 source:c:\users\fpenusilski17\desktop\porodicno stablo editor\porodicnostablo\src\osoba.cpp
+	"Osoba.h"
+
+1551795465 c:\users\fpenusilski17\desktop\porodicno stablo editor\porodicnostablo\include\osoba.h
+	<string>
+	<vector>
+	<iostream>
+
